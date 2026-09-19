@@ -1,5 +1,4 @@
-# Val-Protocol-Motorola-Qt-C-
-Lk Patcher For Unlock Bootloader,Remove Frp,unlock-serial, erase-serial, factory-allow,many operations 
+# Val-Protocol-Motorola-Qt-C++
 🚀 Official Release: MotoLK Studio v1.0.0
 🛡️ The Ultimate Native Motorola MediaTek LK Bootloader Toolkit & Patcher
 🌟 Developed by: Extra-Team 
@@ -22,7 +21,6 @@ A high-performance, native C++ application with a modern Qt GUI designed for rev
 - 🔓 unlock-serial: Inject runtime serial validation gate accepting customized unlock tokens.
 - 🗑️ erase-serial: Allow erasing protected partitions (e.g., FRP, nvdata) via fastboot.
 - 🏭 factory-allow: Expose hidden diagnostic OEM commands for servicing.
-- 📡 modem-unlock: Bypass modem MMU boundary and firmware size limits.
 - 🌟 full-allow: Combine all security overrides in a single click!
 
 3️⃣ 🔑 Deterministic Key Generation Engine:
