@@ -8,7 +8,7 @@
 
 **MotoLK Studio** is a professional-grade, high-performance C++ application with a modern Qt GUI designed for reverse engineers, firmware developers, and technicians working on Motorola MediaTek (MTK) bootloaders. Developed by **Extra-Team**, this tool enables precise, deterministic patching of LK boot images while maintaining cryptographic integrity and hardware compatibility.
 
-**Current Version:** v1.0.0 | **Platform:** Windows 10/11 (64-bit) | **Architecture:** AArch64 & ARM32 Thumb2
+**Current Version:** v1.0.0 | **Platform:** Windows 8/10/11 (64-bit) | **Architecture:** AArch64 & ARM32 Thumb2
 
 ---
 ![MotoLK Studio v1.0.0](./IMG_20260922_094010_560.jpg)
@@ -174,9 +174,9 @@ LibLK (image parser, repacker) — depends on Core + Crypto
 
 ### Minimum Requirements
 - **OS:** Windows 10 / 11 (64-bit)
-- **Compiler:** MSVC 2019+ (C++17 support required)
+- **Compiler:** MinGW_64 bit (C++17 support required)
 - **Build System:** Qt Creator with qmake
-- **Qt Version:** Qt 5.15 or later (Qt Widgets module)
+- **Qt Version:** Qt 5.14.1 or later (Qt Widgets module)
 
 ### Configurable Build Flags
 
