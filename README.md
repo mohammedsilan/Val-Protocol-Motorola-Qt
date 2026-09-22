@@ -11,7 +11,9 @@
 **Current Version:** v1.0.0 | **Platform:** Windows 10/11 (64-bit) | **Architecture:** AArch64 & ARM32 Thumb2
 
 ---
-
+![MotoLK Studio v1.0.0](./IMG_20260922_094010_560.jpg)
+![MotoLK Studio v1.0.0](./IMG_20260922_094057_385.jpg)
+---
 ## ✨ Core Features
 
 ### 🔓 **In-Place Security Gate Injection**
@@ -113,10 +115,6 @@ ValProtocol_MotoLKStudio/
 │   ├── resources.qrc                     ← Qt resource manifest
 │   └── app.rc                            ← Windows icon & version info
 │
-├── third_party/                          ← External dependencies
-│   └── capstone/                         ← Capstone disassembler
-│       ├── include/capstone.h            ← C API headers
-│       └── lib/capstone.dll              ← Windows binary
 │
 └── build/                                ← Build output (generated)
     ├── debug/                            ← Debug build
